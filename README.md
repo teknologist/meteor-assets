@@ -27,7 +27,9 @@ App.icons({
   'android_ldpi': "resources/icons/android_ldpi.png", // 36x36
   'android_mdpi': "resources/icons/android_mdpi.png", // 48x48
   'android_hdpi': "resources/icons/android_hdpi.png", // 72x72
-  'android_xhdpi': "resources/icons/android_xhdpi.png" // 96x96
+  'android_xhdpi': "resources/icons/android_xhdpi.png", // 96x96
+  'android_xxhdpi': "resources/icons/android_xxhdpi.png",  // 144x144
+  'android_xxxhdpi': "resources/icons/android_xxxhdpi.png" // 192x192
 });
 
 App.launchScreens({
@@ -48,7 +50,9 @@ App.launchScreens({
   "android_hdpi_portrait": "resources/splashes/android_hdpi_portrait.png", // 480x800
   "android_hdpi_landscape": "resources/splashes/android_hdpi_landscape.png", // 800x480
   "android_xhdpi_portrait": "resources/splashes/android_xhdpi_portrait.png", // 720x1280
-  "android_xhdpi_landscape": "resources/splashes/android_xhdpi_landscape.png" // 1280x720
+  "android_xhdpi_landscape": "resources/splashes/android_xhdpi_landscape.png", // 1280x720
+  'android_xxhdpi_portrait': "resources/splashes/android_xxhdpi_portrait.png", //1080x1440
+  'android_xxhdpi_landscape': "resources/splashes/android_xxhdpi_landscape.png" //1440x1080
 })
 ```
 
