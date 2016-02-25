@@ -10,7 +10,9 @@ var icons = [
   {name: "android_ldpi", size: "36x36"},
   {name: "android_mdpi", size: "48x48"},
   {name: "android_hdpi", size: "72x72"},
-  {name: "android_xhdpi", size: "96x96"}
+  {name: "android_xhdpi", size: "96x96"},
+  {name: "android_xxhdpi", size: "144x144"},
+  {name: "android_xxxhdpi", size: "192x192"}
 ]
 
 var splashes = [
@@ -31,7 +33,9 @@ var splashes = [
   {"name":"android_hdpi_portrait","size":"480x800"},
   {"name":"android_hdpi_landscape","size":"800x480"},
   {"name":"android_xhdpi_portrait","size":"720x1280"},
-  {"name":"android_xhdpi_landscape","size":"1280x720"}
+  {"name":"android_xhdpi_landscape","size":"1280x720"},
+  {"name":"android_xxhdpi_portrait","size":"1080x1440"},
+  {"name":"android_xxhdpi_landscape","size":"1440x1080"}
  ]
 
 
